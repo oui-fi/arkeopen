@@ -1,0 +1,229 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://oui-fi.github.io/arkeopen/manifests/Bath-bath_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Bath roman bath",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Jullien Philippe",
+  "sequences" : [ {
+    "@id" : "http://bf76e367-9ab7-4022-9d69-185895be3360",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@type" : "sc:Canvas",
+      "@id" : "https://collections.st-andrews.ac.uk/12359/manifest/canvas/50808",
+      "otherContent" : [ {
+        "@id" : "https://collections.st-andrews.ac.uk/annotation/12359/50808",
+        "@type" : "sc:AnnotationList"
+      }, {
+        "@id" : "https://collections.st-andrews.ac.uk/ai/anno/all/12359/50808/6144/4096",
+        "@type" : "sc:AnnotationList"
+      } ],
+      "label" : "img0005",
+      "width" : 6144,
+      "height" : 4096,
+      "thumbnail" : {
+        "@id" : "https://collections.st-andrews.ac.uk/media/50808/50808.thumb.jpg",
+        "@type" : "dctypes:Image",
+        "width" : 100,
+        "height" : 100
+      },
+      "images" : [ {
+        "@type" : "dctypes:Image",
+        "motivation" : "sc:painting",
+        "on" : "https://collections.st-andrews.ac.uk/12359/manifest/canvas/50808",
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "@id" : "https://collections.st-andrews.ac.uk/iiif/2/50808~50808/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "width" : 6144,
+          "height" : 4096,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://collections.st-andrews.ac.uk/iiif/2/50808~50808",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      } ],
+      "related" : {
+        "@id" : "https://collections.st-andrews.ac.uk/12359/manifest",
+        "label" : "Circular Roman Bath, Bath.",
+        "format" : ""
+      }
+    }, {
+      "@type" : "sc:Canvas",
+      "@id" : "https://collections.st-andrews.ac.uk/41147/manifest/canvas/87187",
+      "otherContent" : [ {
+        "@id" : "https://collections.st-andrews.ac.uk/annotation/41147/87187",
+        "@type" : "sc:AnnotationList"
+      }, {
+        "@id" : "https://collections.st-andrews.ac.uk/ai/anno/all/41147/87187/6144/4096",
+        "@type" : "sc:AnnotationList"
+      } ],
+      "label" : "img0029",
+      "width" : 6144,
+      "height" : 4096,
+      "thumbnail" : {
+        "@id" : "https://collections.st-andrews.ac.uk/media/87187/87187.thumb.jpg",
+        "@type" : "dctypes:Image",
+        "width" : 100,
+        "height" : 100
+      },
+      "images" : [ {
+        "@type" : "dctypes:Image",
+        "motivation" : "sc:painting",
+        "on" : "https://collections.st-andrews.ac.uk/41147/manifest/canvas/87187",
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "@id" : "https://collections.st-andrews.ac.uk/iiif/2/87187~87187/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "width" : 6144,
+          "height" : 4096,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://collections.st-andrews.ac.uk/iiif/2/87187~87187",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      } ],
+      "related" : {
+        "@id" : "https://collections.st-andrews.ac.uk/41147/manifest",
+        "label" : "The Roman Baths, Bath.",
+        "format" : ""
+      }
+    }, {
+      "@type" : "sc:Canvas",
+      "@id" : "https://collections.st-andrews.ac.uk/92883/manifest/canvas/84345",
+      "otherContent" : [ {
+        "@id" : "https://collections.st-andrews.ac.uk/annotation/92883/84345",
+        "@type" : "sc:AnnotationList"
+      }, {
+        "@id" : "https://collections.st-andrews.ac.uk/ai/anno/all/92883/84345/6144/4096",
+        "@type" : "sc:AnnotationList"
+      } ],
+      "label" : "img0060",
+      "width" : 6144,
+      "height" : 4096,
+      "thumbnail" : {
+        "@id" : "https://collections.st-andrews.ac.uk/media/84345/84345.thumb.jpg",
+        "@type" : "dctypes:Image",
+        "width" : 100,
+        "height" : 100
+      },
+      "images" : [ {
+        "@type" : "dctypes:Image",
+        "motivation" : "sc:painting",
+        "on" : "https://collections.st-andrews.ac.uk/92883/manifest/canvas/84345",
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "@id" : "https://collections.st-andrews.ac.uk/iiif/2/84345~84345/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "width" : 6144,
+          "height" : 4096,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://collections.st-andrews.ac.uk/iiif/2/84345~84345",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      } ],
+      "related" : {
+        "@id" : "https://collections.st-andrews.ac.uk/92883/manifest",
+        "label" : "Roman Bath, Bath",
+        "format" : ""
+      }
+    }, {
+      "@type" : "sc:Canvas",
+      "@id" : "https://collections.st-andrews.ac.uk/108927/manifest/canvas/71630",
+      "otherContent" : [ {
+        "@id" : "https://collections.st-andrews.ac.uk/annotation/108927/71630",
+        "@type" : "sc:AnnotationList"
+      }, {
+        "@id" : "https://collections.st-andrews.ac.uk/ai/anno/all/108927/71630/6144/4096",
+        "@type" : "sc:AnnotationList"
+      } ],
+      "label" : "img0061",
+      "width" : 6144,
+      "height" : 4096,
+      "thumbnail" : {
+        "@id" : "https://collections.st-andrews.ac.uk/media/71630/71630.thumb.jpg",
+        "@type" : "dctypes:Image",
+        "width" : 100,
+        "height" : 100
+      },
+      "images" : [ {
+        "@type" : "dctypes:Image",
+        "motivation" : "sc:painting",
+        "on" : "https://collections.st-andrews.ac.uk/108927/manifest/canvas/71630",
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "@id" : "https://collections.st-andrews.ac.uk/iiif/2/71630~71630/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "width" : 6144,
+          "height" : 4096,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://collections.st-andrews.ac.uk/iiif/2/71630~71630",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      } ],
+      "related" : {
+        "@id" : "https://collections.st-andrews.ac.uk/108927/manifest",
+        "label" : "Roman Bath from East, Bath.",
+        "format" : ""
+      }
+    }, {
+      "@type" : "sc:Canvas",
+      "@id" : "https://collections.st-andrews.ac.uk/100373/manifest/canvas/118903",
+      "otherContent" : [ {
+        "@id" : "https://collections.st-andrews.ac.uk/annotation/100373/118903",
+        "@type" : "sc:AnnotationList"
+      }, {
+        "@id" : "https://collections.st-andrews.ac.uk/ai/anno/all/100373/118903/3444/2493",
+        "@type" : "sc:AnnotationList"
+      } ],
+      "label" : "04",
+      "width" : 3444,
+      "height" : 2493,
+      "thumbnail" : {
+        "@id" : "https://collections.st-andrews.ac.uk/media/118903/118903.thumb.jpg",
+        "@type" : "dctypes:Image",
+        "width" : 100,
+        "height" : 100
+      },
+      "images" : [ {
+        "@type" : "dctypes:Image",
+        "motivation" : "sc:painting",
+        "on" : "https://collections.st-andrews.ac.uk/100373/manifest/canvas/118903",
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "@id" : "https://collections.st-andrews.ac.uk/iiif/2/118903~118903/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "width" : 3444,
+          "height" : 2493,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://collections.st-andrews.ac.uk/iiif/2/118903~118903",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      } ],
+      "related" : {
+        "@id" : "https://collections.st-andrews.ac.uk/100373/manifest",
+        "label" : "Roman Bath, Bath.",
+        "format" : ""
+      }
+    } ]
+  } ],
+  "structures" : [ ],
+  "viewingDirection" : "left-to-right"
+}
