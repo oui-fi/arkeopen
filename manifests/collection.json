@@ -1,0 +1,13 @@
+{
+  "id" : "https://oui-fi.github.io/arkeopen/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in oui-fi/arkeopen project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://oui-fi.github.io/arkeopen/manifests/Bath-bath_manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
