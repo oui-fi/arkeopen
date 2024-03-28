@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://oui-fi.github.io/arkeopen/manifests/Bath-bath_manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "[Test de manisfest sur git]",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Bath roman bath",
